@@ -2,3 +2,6 @@
 [![Actions Status](https://github.com/nikki35944/php-project-lvl1/workflows/hexlet-check/badge.svg)](https://github.com/nikki35944/php-project-lvl1/actions)
 
 [![Maintainability](https://api.codeclimate.com/v1/badges/0e95ca1fc2ccd166d7b2/maintainability)](https://codeclimate.com/github/nikki35944/php-project-lvl1/maintainability)
+
+## Число четное или нет?
+[![asciicast](https://asciinema.org/a/Qjv9BEJM3Pj164frZSleXj8T8.svg)](https://asciinema.org/a/Qjv9BEJM3Pj164frZSleXj8T8)
