@@ -8,3 +8,6 @@
 
 ## Игра: "Калькулятор"
 [![asciicast](https://asciinema.org/a/V5U77dwEsedZoUFCyqqG2XpfQ.svg)](https://asciinema.org/a/V5U77dwEsedZoUFCyqqG2XpfQ)
+
+## Игра: Наименьший Общий Делитель
+[![asciicast](https://asciinema.org/a/gPZcwexapaCV57QyRKqDr8Olg.svg)](https://asciinema.org/a/gPZcwexapaCV57QyRKqDr8Olg)
