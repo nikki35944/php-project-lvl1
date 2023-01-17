@@ -7,4 +7,4 @@
 [![asciicast](https://asciinema.org/a/Qjv9BEJM3Pj164frZSleXj8T8.svg)](https://asciinema.org/a/Qjv9BEJM3Pj164frZSleXj8T8)
 
 ## Игра: "Калькулятор"
-[![asciicast](https://asciinema.org/a/Xw6Qlz6hoRrmmFNlOkSyV4I8Z.svg)](https://asciinema.org/a/Xw6Qlz6hoRrmmFNlOkSyV4I8Z)
+[![asciicast](https://asciinema.org/a/V5U77dwEsedZoUFCyqqG2XpfQ.svg)](https://asciinema.org/a/V5U77dwEsedZoUFCyqqG2XpfQ)
