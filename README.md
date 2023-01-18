@@ -11,3 +11,6 @@
 
 ## Игра: Наименьший Общий Делитель
 [![asciicast](https://asciinema.org/a/gPZcwexapaCV57QyRKqDr8Olg.svg)](https://asciinema.org/a/gPZcwexapaCV57QyRKqDr8Olg)
+
+## Игра "Арифметическая прогрессия"
+[![asciicast](https://asciinema.org/a/QTBsn5IgtrO1C2YvjflnF5oBv.svg)](https://asciinema.org/a/QTBsn5IgtrO1C2YvjflnF5oBv)
