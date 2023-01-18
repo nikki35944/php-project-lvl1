@@ -25,7 +25,7 @@ function startGame()
 }
 
 
-function gcd($number1, $number2)
+function gcd(int $number1, int $number2)
 {
     while (true) {
         if ($number1 == $number2) {

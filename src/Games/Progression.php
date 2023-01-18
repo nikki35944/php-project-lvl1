@@ -17,6 +17,7 @@ function startGame()
         $firstProgressionNumber = rand($minValue, $maxValue);
         $step = rand(1, 10);
 
+        $progressionNumbers = [];
         for ($i = 0; $i < $progressionLength; $i += 1) {
             $progressionNumbers[$i] = $firstProgressionNumber + $step * $i;
         }

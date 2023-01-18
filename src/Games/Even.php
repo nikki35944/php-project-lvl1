@@ -20,7 +20,7 @@ function startGame()
     run($gameDescription, $gameData);
 }
 
-function isEven($question)
+function isEven(int $question)
 {
     return $question % 2 === 0;
 }
